@@ -3,7 +3,7 @@
 ## Writing own blogs made easier for everyone!
 
 <h2 align="center">
-  <a href="http://blogs.soumyajit.tech/" target="_blank">blogs.soumyajit.tech</a>
+  <a href="https://bits-blog.vercel.app/" target="_blank">blogs.soumyajit.tech</a>
 </h2>
 
 <div align="center">
@@ -70,9 +70,3 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ## Usage Instructions
 
 To write your own blogs create a markdown file in `_content` folder with the specified format. 
-
-### Show your support
-
-Give a ⭐ if you like this website!
-
-<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>

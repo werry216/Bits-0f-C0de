@@ -107,7 +107,7 @@ function Navbar() {
 
               <a
                 className="flex items-center mx-2 lg:mx-4 text-gray-800 hover:text-indigo-600 dark:text-gray-50"
-                href="https://github.com/soumyajit4419"
+                href="https://github.com/werry216"
                 rel="noopener noreferrer"
                 target="_blank"
               >
