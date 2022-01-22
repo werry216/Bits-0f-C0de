@@ -22,7 +22,7 @@
 
 ## Built With
 
-My personal blogpage <a href="http://blogs.soumyajit.tech/" target="_blank">blogs.soumyajit.tech</a> which features some of my developer blog posts and experiences.<br/>
+My personal blogpage <a href="https://bits-blog.vercel.app/" target="_blank">blogs.aleksandr</a> which features some of my developer blog posts and experiences.<br/>
 
 This project was built using these technologies.
 
