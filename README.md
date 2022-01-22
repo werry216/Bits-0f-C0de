@@ -3,7 +3,7 @@
 ## Writing own blogs made easier for everyone!
 
 <h2 align="center">
-  <a href="https://bits-blog.vercel.app/" target="_blank">blogs.soumyajit.tech</a>
+  <a href="https://bits-blog.vercel.app/" target="_blank">blogs.aleksandr.tech</a>
 </h2>
 
 <div align="center">
@@ -19,13 +19,6 @@
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
 
 </center>
-
-<h3 align="center">
-    🔹
-    <a href="https://github.com/soumyajit4419/Bits-0f-C0de/issues">Report Bug</a> &nbsp; &nbsp;
-    🔹
-    <a href="https://github.com/soumyajit4419/Bits-0f-C0de/issues">Request Feature</a>
-</h3>
 
 ## Built With
 
